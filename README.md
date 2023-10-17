@@ -12,4 +12,4 @@
 -  Adquirir los conocimientos suficientes y necesarios para aplicarlos en todo proyecto que venga a desarrollar
 -  Aprender diversidad de lenguajes en programación
 
-<image src="https://www.muylinux.com/wp-content/uploads/2020/03/java.png)https://www.muylinux.com/wp-content/uploads/2020/03/java.png">
+<image src="https://www.muylinux.com/wp-content/uploads/2020/03/java.png)https://www.muylinux.com/wp-content/uploads/2020/03/java.png" alt="Logo Java">>
