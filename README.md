@@ -12,4 +12,6 @@
 -  Adquirir los conocimientos suficientes y necesarios para aplicarlos en todo proyecto que venga a desarrollar
 -  Aprender diversidad de lenguajes en programación
 
-<image src="https://www.softzone.es/app/uploads-softzone.es/2020/09/Programar-Java.jpg" alt="Logo Java">>
+<image src="https://www.softzone.es/app/uploads-softzone.es/2020/09/Programar-Java.jpg" alt="Logo Java">
+
+# **---VAMOS CON TODA---**
